@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Fireboyzzsmp.aternos.me",
-    "port": 11605,
+    "ip": "chillvillesmp.mcsh.io",
+    "port": 22565,
     "version": "",
     "try-creative": false
   },
